@@ -18,5 +18,5 @@ Im Aldas and im a self taught programmer
 ---
 
 ### Statistics
-![github overall statistics](https://github-readme-stats.vercel.app/api?username=faith&show_icons=true&theme=tokyonight)
-![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=faith&show_icons=true&layout=compact&theme=tokyonight)
+![github overall statistics](https://github-readme-stats.vercel.app/api?username=4ldas&show_icons=true&theme=tokyonight)
+![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=4ldas&show_icons=true&layout=compact&theme=tokyonight)
